@@ -8,7 +8,7 @@
 - Input/Output Format: Text
 - Research Field: Deep Learning, Natural Language Processing
 - Contains an Impact Assessment: Yes
-- Associated Risks: ☣️ Disinformation, Algorithmic Discrimination, Social Engineering, Environmental Impacts ☣️
+- Associated Risks: Disinformation, Algorithmic Discrimination, Social Engineering, Environmental Impacts
 - Date of Publication: 2/10/2022
 - Organization: [Google](https://about.google/) (Subsidiary)
 - Country/Origin: United States of America
@@ -28,4 +28,3 @@ LaMDA is not available to the public.
 [Google](https://about.google/) is an American multinational technology company focusing on artificial intelligence, online advertising, search engine technology, cloud computing, computer software, quantum computing, e-commerce, and consumer electronics.  
 
 Google is also a subsidiary of Alphabet Inc., a publicly traded company with multiple classes of shareholders. Google abides by [Google's AI Principles](https://ai.google/responsibility/principles/).
-

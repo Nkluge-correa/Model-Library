@@ -8,7 +8,7 @@
 - Input/Output Format: Text, Image
 - Research Field: Deep Learning, Computer Vision, Natural Language Processing
 - Contains an Impact Assessment: No
-- Associated Risks: ☣️ Disinformation, Algorithmic Discrimination, Environmental Impacts, Technological Unemployment ☣️
+- Associated Risks: Disinformation, Algorithmic Discrimination, Environmental Impacts, Technological Unemployment
 - Date of Publication: 7/12/2022
 - Organization: [Midjourney, Inc.](https://www.midjourney.com/) (Independent Research Lab)
 - Country/Origin: United States of America
@@ -26,4 +26,3 @@ Beyond the /imagine command, Midjourney offers other commands to send to the Dis
 ## Organization
 
 [Midjourney](https://www.midjourney.com/) is an independent research lab involved in generative AI. Midjourney develops text-to-image models similar to OpenAI’s DALL-E and Stability AI’s Stable Diffusion.
-

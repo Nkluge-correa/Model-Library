@@ -8,7 +8,7 @@
 - Input/Output Format: Text, Image
 - Research Field: Deep Learning, Computer Vision, Natural Language Processing
 - Contains an Impact Assessment: No
-- Associated Risks: ☣️ Disinformation, Algorithmic Discrimination, Environmental Impacts, Technological Unemployment ☣️
+- Associated Risks: Disinformation, Algorithmic Discrimination, Environmental Impacts, Technological Unemployment
 - Date of Publication: 9/20/2023
 - Organization: [OpenAI Inc.](https://openai.com/) (Non-profit)
 - Country/Origin: United States of America
@@ -27,5 +27,4 @@ Currently, DALL-3 powers Bing Chat assistant and is built natively on ChatGPT, f
 
 [OpenAI](https://openai.com/) is an American artificial intelligence research laboratory consisting of the non-profit OpenAI, Inc. and its for-profit subsidiary corporation OpenAI, L.P, founded in 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba. Their mission "_is to ensure that General Artificial Intelligence benefits all of humanity_."  
   
-The organization maintains an active research and development agenda in AI Safety. In "_[Our approach to AI safety](https://openai.com/blog/our-approach-to-ai-safety)_", OpenAI states that it is committed to keeping Artificial Intelligence safe and broadly beneficial. 
-
+The organization maintains an active research and development agenda in AI Safety. In "_[Our approach to AI safety](https://openai.com/blog/our-approach-to-ai-safety)_", OpenAI states that it is committed to keeping Artificial Intelligence safe and broadly beneficial.

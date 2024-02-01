@@ -8,7 +8,7 @@
 - Input/Output Format: Text
 - Research Field: Deep Learning, Natural Language Processing
 - Contains an Impact Assessment: Yes
-- Associated Risks: ☣️ Disinformation, Algorithmic Discrimination, Social Engineering, Environmental Impacts ☣️
+- Associated Risks: Disinformation, Algorithmic Discrimination, Social Engineering, Environmental Impacts
 - Date of Publication: 5/28/2020
 - Organization: [OpenAI Inc.](https://openai.com/) (Non-profit)
 - Country/Origin: United States of America
@@ -27,5 +27,4 @@ GPT-3 has been quoted by numerous [researchers and philosophers](https://dailyno
 
 [OpenAI](https://openai.com/) is an American artificial intelligence research laboratory consisting of the non-profit OpenAI, Inc. and its for-profit subsidiary corporation OpenAI, L.P, founded in 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba. Their mission "_is to ensure that General Artificial Intelligence benefits all of humanity_."  
   
-The organization maintains an active research and development agenda in AI Safety. In "_[Our approach to AI safety](https://openai.com/blog/our-approach-to-ai-safety)_", OpenAI states that it is committed to keeping Artificial Intelligence safe and broadly beneficial. 
-
+The organization maintains an active research and development agenda in AI Safety. In "_[Our approach to AI safety](https://openai.com/blog/our-approach-to-ai-safety)_", OpenAI states that it is committed to keeping Artificial Intelligence safe and broadly beneficial.

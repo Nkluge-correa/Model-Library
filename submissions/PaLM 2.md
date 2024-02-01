@@ -8,7 +8,7 @@
 - Input/Output Format: Text
 - Research Field: Deep Learning, Natural Language Processing
 - Contains an Impact Assessment: Yes
-- Associated Risks: ☣️ Disinformation, Algorithmic Discrimination, Social Engineering, Malware Development, Environmental Impacts, Technological Unemployment, Intelectual Fraud ☣️
+- Associated Risks: Disinformation, Algorithmic Discrimination, Social Engineering, Malware Development, Environmental Impacts, Technological Unemployment, Intelectual Fraud
 - Date of Publication: 5/1/2023
 - Organization: [Google AI](https://ai.google/) (Subsidiary)
 - Country/Origin: United States of America
@@ -25,7 +25,6 @@ PaLM 2 is the foundation that powers other state-of-the-art models, like [Sec-Pa
 
 ## Organization
 
-[Google AI](https://ai.google/) is a research division at Google that focuses on developing artificial intelligence. Meanwhile, Google is a subsidiary of Alphabet Inc., a publicly traded company with multiple classes of shareholders. Google AI offers a range of machine learning products, solutions, and services that are powered by its research and technology. 
+[Google AI](https://ai.google/) is a research division at Google that focuses on developing artificial intelligence. Meanwhile, Google is a subsidiary of Alphabet Inc., a publicly traded company with multiple classes of shareholders. Google AI offers a range of machine learning products, solutions, and services that are powered by its research and technology.
 
 According to Google AI, "_While we are optimistic about the potential of AI, we recognize that advanced technologies can raise important challenges that must be addressed, thoughtfully, and affirmatively.  These AI Principles describe our commitment to developing technology responsibly and work to establish specific application areas we will not pursue._" More on the principles that guide Google AI can be found on their [website](https://ai.google/responsibility/principles/).
-

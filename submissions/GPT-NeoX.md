@@ -8,7 +8,7 @@
 - Input/Output Format: Text
 - Research Field: Deep Learning, Natural Language Processing
 - Contains an Impact Assessment: Yes
-- Associated Risks: ☣️ Disinformation, Algorithmic Discrimination, Social Engineering, Environmental Impacts ☣️
+- Associated Risks: Disinformation, Algorithmic Discrimination, Social Engineering, Environmental Impacts
 - Date of Publication: 4/14/2022
 - Organization: [EleutherAI](https://www.eleuther.ai) (Non-profit)
 - Country/Origin: United States of America
@@ -28,4 +28,3 @@ All GPT-Neo models are open-sourced and licensed under the Apache 2.0 license.
 [EleutherAI](https://www.eleuther.ai/) is a non-profit artificial intelligence research group. The group was formed in a Discord server in July 2020 to organize a replication of GPT-3. In early 2023, it formally incorporated as the EleutherAI Foundation, a non-profit research institute.
 
 According to its [mission statement](https://www.eleuther.ai/about), EleutherAI seeks to (1) advance research on the interpretability and alignment of foundation models, (2) ensure that the ability to study foundation models is not restricted to a handful of companies, and (3) educate people about the capabilities, limitations, and risks associated with these technologies.
-

@@ -8,7 +8,7 @@
 - Input/Output Format: Audio
 - Research Field: Deep Learning, Natural Language Processing, Speech Recognition
 - Contains an Impact Assessment: Yes
-- Associated Risks: ☣️ Disinformation, Algorithmic Discrimination, Social Engineering, Environmental Impacts, Technological Unemployment ☣️
+- Associated Risks: Disinformation, Algorithmic Discrimination, Social Engineering, Environmental Impacts, Technological Unemployment
 - Date of Publication: 7/26/2023
 - Organization: [Google Research](https://research.google/) (Subsidiary)
 - Country/Origin: United States of America
@@ -28,4 +28,3 @@ AudioLM models are not available to the public, but demos of its capabilities ar
 [Google Research](https://research.google/) is a research division of Google that focuses on advancing computer science, machine learning, artificial intelligence, and other related fields. Meanwhile, Google is a subsidiary of Alphabet Inc., a publicly traded company with multiple classes of shareholders.  
   
 Google Research is responsible for developing new technologies and products that can be used by Google and its users. The division has several research areas, including natural language processing, computer vision, robotics, and more. Google Research, like other Google-related organizations, abides by [Google's AI Principles](https://ai.google/responsibility/principles/).
-

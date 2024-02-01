@@ -8,7 +8,7 @@
 - Input/Output Format: Text
 - Research Field: Deep Learning, Natural Language Processing
 - Contains an Impact Assessment: Yes
-- Associated Risks: ☣️ Disinformation, Algorithmic Discrimination, Environmental Impacts, Intelectual Fraud ☣️
+- Associated Risks: Disinformation, Algorithmic Discrimination, Environmental Impacts, Intelectual Fraud
 - Date of Publication: 11/16/2022
 - Organization: [Meta AI](https://ai.meta.com/) (Public Company)
 - Country/Origin: United States of America
@@ -25,7 +25,6 @@ Galactica is available as an open-source model and can be used through the [Gala
 
 ## Organization
 
-[Meta AI](https://ai.facebook.com/) is the AI research division of Meta Platforms, Inc., known as Meta] and formerly Facebook, Inc. Meta is an American multinational technology conglomerate based in Menlo Park, California. Meta AI started as Facebook Artificial Intelligence Research (FAIR), announced in September 2013, and initially directed by [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun "Yann LeCun").  
+[Meta AI](https://ai.facebook.com/) is the AI research division of Meta Platforms, Inc., known as Meta and formerly Facebook, Inc. Meta is an American multinational technology conglomerate based in Menlo Park, California. Meta AI started as Facebook Artificial Intelligence Research (FAIR), announced in September 2013, and initially directed by [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun "Yann LeCun").  
   
 When it comes to matters of AI Ethics, [Meta AI expresses](https://ai.meta.com/about/) that "_Our commitment to responsible AI is driven by the belief that everyone should have equitable access to information, services, and opportunities_". Meta AI also claims to adhere to Meta's core principles: Privacy and security, Fairness and inclusion, Robustness and safety, Transparency and control, Accountability and governance, among other key principles.
-

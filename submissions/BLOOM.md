@@ -8,7 +8,7 @@
 - Input/Output Format: Text
 - Research Field: Deep Learning, Natural Language Processing
 - Contains an Impact Assessment: Yes
-- Associated Risks: ☣️ Disinformation, Algorithmic Discrimination, Social Engineering, Environmental Impacts ☣️
+- Associated Risks: Disinformation, Algorithmic Discrimination, Social Engineering, Environmental Impacts
 - Date of Publication: 11/9/2022
 - Organization: [BigScience](https://bigscience.huggingface.co/) (Academic/Research Institution)
 - Country/Origin: France
@@ -28,4 +28,3 @@ BLOOM was trained in six sizes ranging from 560 million to 176 billion parameter
 [BigScience](https://bigscience.huggingface.co/) is an open and collaborative workshop around studying and creating very large language models, gathering more than 1000 researchers worldwide.
 
 According to their [homepage](https://bigscience.notion.site/Introduction-5facbf41a16848d198bda853485e23a0), the BigScience project is inspired by existing partnership projects in other fields, such as [CERN](https://home.web.cern.ch/), [LIGO]( https://www.ligo.caltech.edu/), and [ITER](https://www.iter.org/), in which research collaborations are open, facilitating large-scale results.
-
