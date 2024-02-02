@@ -16,11 +16,11 @@
 
 8. The sixth item in "Model Details" asks about the risks associated with a model. If a model has an impact assessment, infer the possible impacts. All identified mapped risks are in the [this](../data/risks_list.md) file. You can also base your analysis on models which perform similar functions.
 
-9. The seventh item in "Model Details" is the model's publication date (e.g., dd/mm/yyyy).
+9. The seventh item in "Model Details" is the model's publication date (e.g., dd/mm/yyyy). If this information is unavailable, use the "Not specified" string.
 
 10. The eighth item in "Model Details" is the organization responsible for developing that model. Use markdown notation to create a hyperlink to the organization's homepage (e.g., `[OpenAI Inc.](https://openai.com/)`). We also add parenteses at the end, a type for that organization (e.g., `[OpenAI Inc.](https://openai.com/) (Non-profit)`). Check the [submissions](../submissions/) folder for examples if in doubt.
 
-11. The ninth item in "Model Details" is the country of origin of that organization (e.g., United States of America).
+11. The ninth item in "Model Details" is the country of origin of that organization (e.g., United States of America). If this information is unavailable, use the "Not specified" string.
 
 12. The tenth item in "Model Details" shows the license associated with that model (e.g., MIT). Check the [submissions](../submissions/) folder for examples if in doubt.
 
