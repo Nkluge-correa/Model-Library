@@ -6,7 +6,7 @@
 - Model Size: Not specified
 - Dataset: Not specified
 - Input/Output Format: Text, Image
-- Research Field: Deep Learning, Computer Vision, Natural Language Processing
+- Research Field: Computer Vision, Natural Language Processing
 - Contains an Impact Assessment: No
 - Associated Risks: Disinformation, Algorithmic Discrimination, Environmental Impacts, Technological Unemployment
 - Date of Publication: 7/12/2022

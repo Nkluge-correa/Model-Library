@@ -6,7 +6,7 @@
 - Model Size: Not specified
 - Dataset: The train split of [unlab-60k](https://github.com/facebookresearch/libri-light), consisting of 60k hours of English speech
 - Input/Output Format: Audio
-- Research Field: Deep Learning, Natural Language Processing, Speech Recognition
+- Research Field: Natural Language Processing, Speech Recognition
 - Contains an Impact Assessment: Yes
 - Associated Risks: Disinformation, Algorithmic Discrimination, Social Engineering, Environmental Impacts, Technological Unemployment
 - Date of Publication: 7/26/2023

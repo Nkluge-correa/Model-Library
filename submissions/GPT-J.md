@@ -6,7 +6,7 @@
 - Model Size: 6B
 - Dataset: [The Pile](https://pile.eleuther.ai/)
 - Input/Output Format: Text
-- Research Field: Deep Learning, Natural Language Processing
+- Research Field: Natural Language Processing
 - Contains an Impact Assessment: Yes
 - Associated Risks: Disinformation, Algorithmic Discrimination, Social Engineering, Environmental Impacts
 - Date of Publication: 6/9/2021

@@ -6,7 +6,7 @@
 - Model Size: 20B
 - Dataset: [LAION-400M dataset](https://huggingface.co/datasets/laion/laion400m), [ALIGN training data](https://arxiv.org/abs/2102.05918), and the [JFT-4B dataset](https://paperswithcode.com/paper/scaling-vision-transformers)
 - Input/Output Format: Text, Image
-- Research Field: Deep Learning, Computer Vision, Natural Language Processing
+- Research Field: Computer Vision, Natural Language Processing
 - Contains an Impact Assessment: Yes
 - Associated Risks: Disinformation, Algorithmic Discrimination, Environmental Impacts, Technological Unemployment
 - Date of Publication: 6/22/2022

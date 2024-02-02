@@ -6,7 +6,7 @@
 - Model Size: Not specified
 - Dataset: Not specified
 - Input/Output Format: Text
-- Research Field: Deep Learning, Natural Language Processing
+- Research Field: Natural Language Processing
 - Contains an Impact Assessment: No
 - Associated Risks: Algorithmic Discrimination, Malware Development, Environmental Impacts, Technological Unemployment
 - Date of Publication: 10/29/2021

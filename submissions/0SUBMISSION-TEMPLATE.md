@@ -11,12 +11,12 @@
 - Date of Publication: 11/01/2021
 - Organization: [Organization Name](link-to-their-home-page) (Public Company)
 - Country/Origin: United States of America
-- License: License used Apache 2.0
+- License: Apache 2.0 License
 - Publication: [Name of a publication or repository tied to the model](link-to-the-model-paper-or-repo)
 
 ## Description
 
-A description of the model, how it is, how it works, how it was developed, and how it is licensed. Maximum three paragraphs long!
+A description of the model. What it is, how it works, how it was developed, and how it is licensed. Maximum three paragraphs long!
 
 ## Organization
 

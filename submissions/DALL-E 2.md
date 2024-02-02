@@ -6,7 +6,7 @@
 - Model Size: 3.5B
 - Dataset: Encoder dataset: DALL-E and CLIP dataset (approximately 650M images). Decoder dataset: DALL-E dataset (approximately 250M images)
 - Input/Output Format: Text, Image
-- Research Field: Deep Learning, Computer Vision, Natural Language Processing
+- Research Field: Computer Vision, Natural Language Processing
 - Contains an Impact Assessment: Yes
 - Associated Risks: Disinformation, Algorithmic Discrimination, Environmental Impacts, Technological Unemployment
 - Date of Publication: 4/13/2022

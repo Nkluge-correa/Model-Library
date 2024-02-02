@@ -6,7 +6,7 @@
 - Model Size: 176B
 - Dataset: [ROOTS corpus](https://arxiv.org/abs/2303.03915), a dataset comprising hundreds of sources in 46 natural and 13 programming languages (366B tokens)
 - Input/Output Format: Text
-- Research Field: Deep Learning, Natural Language Processing
+- Research Field: Natural Language Processing
 - Contains an Impact Assessment: Yes
 - Associated Risks: Disinformation, Algorithmic Discrimination, Social Engineering, Environmental Impacts
 - Date of Publication: 11/9/2022

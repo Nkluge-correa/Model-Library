@@ -6,7 +6,7 @@
 - Model Size: 175B
 - Dataset: Prompt/completion pairs submitted to the OpenAI API
 - Input/Output Format: Text
-- Research Field: Deep Learning, Reinforcement Learning, Natural Language Processing
+- Research Field: Reinforcement Learning, Natural Language Processing
 - Contains an Impact Assessment: Yes
 - Associated Risks: Disinformation, Algorithmic Discrimination, Social Engineering, Malware Development, Environmental Impacts, Technological Unemployment, Intelectual Fraud
 - Date of Publication: 3/4/2022

@@ -6,7 +6,7 @@
 - Model Size: 34B
 - Dataset: 500B tokens of publicly available code plus a small portion of natural language datasets related to code
 - Input/Output Format: Text
-- Research Field: Deep Learning, Natural Language Processing
+- Research Field: Natural Language Processing
 - Contains an Impact Assessment: Yes
 - Associated Risks: Algorithmic Discrimination, Malware Development, Environmental Impacts, Technological Unemployment
 - Date of Publication: 8/24/2023

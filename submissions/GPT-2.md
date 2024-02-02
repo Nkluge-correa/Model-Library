@@ -6,7 +6,7 @@
 - Model Size: 1.5B
 - Dataset: [WebText](https://github.com/openai/gpt-2/blob/master/domains.txt)
 - Input/Output Format: Text
-- Research Field: Deep Learning, Natural Language Processing
+- Research Field: Natural Language Processing
 - Contains an Impact Assessment: Yes
 - Associated Risks: Disinformation, Algorithmic Discrimination, Social Engineering, Environmental Impacts
 - Date of Publication: 2/24/2019

@@ -6,7 +6,7 @@
 - Model Size: Not specified
 - Dataset: A diverse set of sources containing web documents, books, code, mathematics, and conversational data
 - Input/Output Format: Text
-- Research Field: Deep Learning, Natural Language Processing
+- Research Field: Natural Language Processing
 - Contains an Impact Assessment: Yes
 - Associated Risks: Disinformation, Algorithmic Discrimination, Social Engineering, Malware Development, Environmental Impacts, Technological Unemployment, Intelectual Fraud
 - Date of Publication: 5/1/2023

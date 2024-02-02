@@ -6,7 +6,7 @@
 - Model Size: 1.55B
 - Dataset: 680,000 hours of labeled audio
 - Input/Output Format: Text, Audio
-- Research Field: Deep Learning, Natural Language Processing, Speech Recognition
+- Research Field: Natural Language Processing, Speech Recognition
 - Contains an Impact Assessment: Yes
 - Associated Risks: Disinformation, Algorithmic Discrimination, Environmental Impacts, Surveillance and Social Control, Technological Unemployment
 - Date of Publication: 12/6/2022

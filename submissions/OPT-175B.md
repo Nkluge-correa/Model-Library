@@ -6,7 +6,7 @@
 - Model Size: 175B
 - Dataset: Approximately 180B tokens corresponding to 800 GB of data. A complete list of datasets used is listed in [Appendix C](https://arxiv.org/abs/2205.01068)
 - Input/Output Format: Text
-- Research Field: Deep Learning, Natural Language Processing
+- Research Field: Natural Language Processing
 - Contains an Impact Assessment: Yes
 - Associated Risks: Disinformation, Algorithmic Discrimination, Social Engineering, Environmental Impacts
 - Date of Publication: 5/2/2022

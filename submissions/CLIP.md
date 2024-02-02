@@ -6,7 +6,7 @@
 - Model Size: Not specified
 - Dataset: Trained on publicly available image-caption data
 - Input/Output Format: Text, Image
-- Research Field: Deep Learning, Computer Vision, Natural Language Processing
+- Research Field: Computer Vision, Natural Language Processing
 - Contains an Impact Assessment: Yes
 - Associated Risks: Algorithmic Discrimination, Surveillance and Social Control, Environmental Impacts
 - Date of Publication: 2/26/2021

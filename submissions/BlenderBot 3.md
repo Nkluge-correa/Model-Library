@@ -6,7 +6,7 @@
 - Model Size: 175B
 - Dataset: Approximately 1.3B training tokens. A complete list of training datasets can be found in this [data card](https://github.com/facebookresearch/ParlAI/blob/main/parlai/zoo/bb3/data_card.md)
 - Input/Output Format: Text
-- Research Field: Deep Learning, Natural Language Processing
+- Research Field: Natural Language Processing
 - Contains an Impact Assessment: Yes
 - Associated Risks: Disinformation, Algorithmic Discrimination, Social Engineering, Environmental Impacts
 - Date of Publication: 8/5/2022

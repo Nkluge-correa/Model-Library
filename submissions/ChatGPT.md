@@ -6,7 +6,7 @@
 - Model Size: 175B
 - Dataset: Improved version of GPT-3 dataset + human demonstrations/evaluations
 - Input/Output Format: Text
-- Research Field: Deep Learning, Reinforcement Learning, Natural Language Processing
+- Research Field: Reinforcement Learning, Natural Language Processing
 - Contains an Impact Assessment: Yes
 - Associated Risks: Disinformation, Algorithmic Discrimination, Social Engineering, Malware Development, Environmental Impacts, Technological Unemployment, Intelectual Fraud
 - Date of Publication: 11/30/2022

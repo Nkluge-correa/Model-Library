@@ -6,7 +6,7 @@
 - Model Size: 2.7B
 - Dataset: A dataset of almost 13M messages from online Diplomacy games
 - Input/Output Format: Text
-- Research Field: Deep Learning, Reinforcement Learning, Natural Language Processing
+- Research Field: Reinforcement Learning, Natural Language Processing
 - Contains an Impact Assessment: No
 - Associated Risks: Algorithmic Discrimination, Social Engineering, Environmental Impacts
 - Date of Publication: 11/22/2022

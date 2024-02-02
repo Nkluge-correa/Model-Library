@@ -6,7 +6,7 @@
 - Model Size: 540B
 - Dataset: 780 billion tokens that represent a wide range of natural language use cases
 - Input/Output Format: Text
-- Research Field: Deep Learning, Natural Language Processing
+- Research Field: Natural Language Processing
 - Contains an Impact Assessment: Yes
 - Associated Risks: Disinformation, Algorithmic Discrimination, Social Engineering, Malware Development, Environmental Impacts, Technological Unemployment, Intelectual Fraud
 - Date of Publication: 10/5/2022

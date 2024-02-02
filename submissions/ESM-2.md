@@ -6,7 +6,7 @@
 - Model Size: 15B
 - Dataset: Uniref50 (UR50) dataset: a biological dataset taken from the [Uniprot database](https://www.uniprot.org/)
 - Input/Output Format: Biological Data
-- Research Field: Deep Learning, Pattern Recognition, Forecasting
+- Research Field: Pattern Recognition, Forecasting
 - Contains an Impact Assessment: No
 - Associated Risks: Biological Risks, Environmental Impacts
 - Date of Publication: 3/16/2023

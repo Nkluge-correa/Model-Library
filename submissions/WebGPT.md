@@ -6,7 +6,7 @@
 - Model Size: 175B
 - Dataset: A collection of demonstrations and comparisons made by freelance contractors from [Upwork](https://www.upwork.com) and [Surge AI](https://www.surgehq.ai)
 - Input/Output Format: Text
-- Research Field: Deep Learning, Reinforcement Learning, Natural Language Processing
+- Research Field: Reinforcement Learning, Natural Language Processing
 - Contains an Impact Assessment: Yes
 - Associated Risks: Disinformation, Algorithmic Discrimination, Social Engineering, Environmental Impacts, Technological Unemployment
 - Date of Publication: 12/17/2021

@@ -6,7 +6,7 @@
 - Model Size: 120B
 - Dataset: 106 billion tokens of articles, reference materials, encyclopedias, and other scientific sources
 - Input/Output Format: Text
-- Research Field: Deep Learning, Natural Language Processing
+- Research Field: Natural Language Processing
 - Contains an Impact Assessment: Yes
 - Associated Risks: Disinformation, Algorithmic Discrimination, Environmental Impacts, Intelectual Fraud
 - Date of Publication: 11/16/2022

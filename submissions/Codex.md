@@ -6,7 +6,7 @@
 - Model Size: 12B
 - Dataset: 159GB from public software repositories hosted on GitHub
 - Input/Output Format: Text
-- Research Field: Deep Learning, Natural Language Processing
+- Research Field: Natural Language Processing
 - Contains an Impact Assessment: Yes
 - Associated Risks: Algorithmic Discrimination, Malware Development, Environmental Impacts, Technological Unemployment
 - Date of Publication: 7/7/2021

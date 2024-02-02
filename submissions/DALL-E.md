@@ -6,7 +6,7 @@
 - Model Size: 12B
 - Dataset: 250 million text-image pairs from Wikipedia, and a filtered subset from YFCC100M
 - Input/Output Format: Text, Image
-- Research Field: Deep Learning, Computer Vision, Natural Language Processing
+- Research Field: Computer Vision, Natural Language Processing
 - Contains an Impact Assessment: No
 - Associated Risks: Algorithmic Discrimination, Environmental Impacts, Technological Unemployment
 - Date of Publication: 2/24/2021

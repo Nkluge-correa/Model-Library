@@ -6,7 +6,7 @@
 - Model Size: 14B
 - Dataset: 860 million text-image pairs from Google's internal datasets and the [Laion](https://huggingface.co/datasets/laion/laion400m) dataset
 - Input/Output Format: Text, Image
-- Research Field: Deep Learning, Computer Vision, Natural Language Processing
+- Research Field: Computer Vision, Natural Language Processing
 - Contains an Impact Assessment: Yes
 - Associated Risks: Disinformation, Algorithmic Discrimination, Environmental Impacts, Technological Unemployment
 - Date of Publication: 5/23/2022
