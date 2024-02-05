@@ -48,8 +48,6 @@ def recreate_db(markdown_dir, output_csv):
                     data["publication_date"] = line[22:].strip()
                 elif line.startswith('- Organization:'):
                     data["organization_and_url"] = line[15:].strip()
-                elif line.startswith('- Institution Type:'):
-                    data["institution_type"] = line[19:].strip()
                 elif line.startswith('- Country/Origin:'):
                     data["country"] = line[17:].strip()
                 elif line.startswith('- License:'):

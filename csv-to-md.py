@@ -23,7 +23,7 @@ def generate_markdown(csv_file):
 - Contains an Impact Assessment: {info.risks_and_limitations}
 - Associated Risks: {info.risk_types}
 - Date of Publication: {info.publication_date}
-- Organization: {info.organization_and_url} ({info.institution_type})
+- Organization: {info.organization_and_url}
 - Country/Origin: {info.country}
 - License: {info.license}
 - Publication: {info.paper_name_url}

@@ -2,7 +2,7 @@
 
 ## Model Details
 
-- Name:  [Imagen](https://imagen.research.google/) 📚🖼️
+- Name: [Imagen](https://imagen.research.google/) 📚🖼️
 - Model Size: 14B
 - Dataset: 860 million text-image pairs from Google's internal datasets and the [Laion](https://huggingface.co/datasets/laion/laion400m) dataset
 - Input/Output Format: Text, Image
