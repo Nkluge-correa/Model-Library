@@ -1,5 +1,5 @@
-import argparse
 import os
+import argparse
 import pandas as pd
 
 def recreate_db(markdown_dir, output_csv):
