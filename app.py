@@ -73,7 +73,7 @@ with gr.Blocks(theme='HaleyCH/HaleyCH_Theme') as demo:
         gr.Markdown(risk_text)
     
     gr.HTML(f"<center><div style='max-width: 50%;'>If you would like to add a model, read our\
-        documentation and submit a PR on <a href='https://github.com/Nkluge-correa/ModelLibrary' \
+        documentation and submit a PR on <a href='https://github.com/Nkluge-correa/Model-Library' \
             target='_blank'>GitHub</a>!</div></center>")
     
     display.click(fn=display_model_information, inputs=dropdown, outputs=[model_details, model_info])
